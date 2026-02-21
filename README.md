@@ -5,6 +5,7 @@ This project enables real-time hand gesture recognition using a webcam to contro
 ## Features
  Real-time hand tracking with MediaPipe
  Finger-count based gesture recognition
+ 
  System actions:
   - 1 finger → Increase brightness (+10)
   - 2 fingers → Take screenshot (Win + PrtSc)
